@@ -1,23 +1,17 @@
-Olá! Eu sou o Kauã Alves Cazemiro
+👨‍💻 Kauã Alves Cazemiro
+Java Backend Developer | Python | MySQL
 
-Sou estudante e desenvolvedor em formação, apaixonado por tecnologia, automação e desenvolvimento de software.
+Apaixonado por tecnologia e por resolver desafios lógicos através do código. Tenho experiência prática com versionamento de código e estruturação de bancos de dados.
 
-Atualmente estudo:
+No meu arsenal técnico você encontra:
 
-Java
-Spring Boot
-Git e GitHub
-Banco de Dados
-APIs REST
+☕ Backend: Java e Python.
 
-💻 Tecnologias
-Java
-MySQL
-Git
-GitHub
-HTML
-pyton
-📚 Atualmente aprendendo
-Desenvolvimento Back-end
-APIs REST
-Boas práticas de programação
+💾 Data: MySQL.
+
+🌐 Web: HTML.
+
+🚀 Workflow: Git & GitHub.
+
+📫 Vamos nos conectar?
+[kauaalves7163@gmail.com]
