@@ -1,16 +1,22 @@
-## Hi there 👋
+Olá! Eu sou o Kauã Alves Cazemiro
 
-<!--
-**kauaalves7163-collab/Kauaalves7163-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e desenvolvedor em formação, apaixonado por tecnologia, automação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+Atualmente estudo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java
+Spring Boot
+Git e GitHub
+Banco de Dados
+APIs REST
+💻 Tecnologias
+Java
+MySQL
+Git
+GitHub
+HTML
+pyton
+📚 Atualmente aprendendo
+Desenvolvimento Back-end
+APIs REST
+Boas práticas de programação
